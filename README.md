@@ -1,3 +1,4 @@
+
 ## Olá!! Eu sou o Guilherme!!! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-afonso-7a68771b2/)
@@ -6,6 +7,7 @@
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=ParaQueNome&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=false"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParaQueNome&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
+
 
 
 
@@ -23,9 +25,9 @@
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  
+  <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 </div><br/>
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+
 ![Snake animation](https://github.com/ParaQueNome/ParaQueNome/blob/output/github-contribution-grid-snake.svg)
 
 
