@@ -6,4 +6,8 @@
 
 
 ### Tecnologias que uso
+
+<div style="display: inline_block"><\br>
+  <img align="center" alt="HTML5" src=" \>
+<\div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParaQueNome&size_weight=0.5&count_weight=0.5)](https://github.com/ParaQueNome/github-readme-stats)
