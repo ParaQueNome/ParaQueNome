@@ -1,5 +1,8 @@
 
-## Olá!! Eu sou o Guilherme!!! (☞ﾟヮﾟ)☞
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Olá!! Eu sou o Guilherme!!! (☞ﾟヮﾟ)☞" alt="Typing SVG" /></a>
+<p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=00FFFF&center=true&vCenter=true&width=1000&lines=Bem+vindo ao meu Github" alt="Typing SVG" /></a>
+</p> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-afonso-7a68771b2/)
 <div>
