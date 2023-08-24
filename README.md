@@ -34,6 +34,6 @@
 
 <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-![snake animation](https://github.com/<ParaQueNome>/<ParaQueNome>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/ParaQueNome/ParaQueNome/blob/output/github-contribution-grid-snake2.svg)
 
 
