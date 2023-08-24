@@ -31,9 +31,9 @@
   <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
 </div><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+<img alt="github-snake" src="github-snake.svg" />
+
 
